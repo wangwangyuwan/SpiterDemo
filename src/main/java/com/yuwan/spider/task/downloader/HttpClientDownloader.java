@@ -1,4 +1,4 @@
-package com.yuwan.spider.downloader;
+package com.yuwan.spider.task.downloader;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.http.HttpResponse;

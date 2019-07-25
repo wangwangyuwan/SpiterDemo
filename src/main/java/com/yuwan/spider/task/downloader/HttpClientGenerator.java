@@ -1,4 +1,4 @@
-package com.yuwan.spider.downloader;
+package com.yuwan.spider.task.downloader;
 
 import org.apache.http.HttpException;
 import org.apache.http.HttpRequest;
